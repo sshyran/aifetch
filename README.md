@@ -1,4 +1,10 @@
-# AI Fetch
+# A*I* Fetch
+
+To download AI notes for offline use, basically:
+
+```
+wget -r -N http://people.csail.mit.edu/tlp/AI_SUTD_WWW/
+```
 
 Or *I* fetch
 
@@ -26,7 +32,7 @@ apt-get update && apt-get install wget
 
 ## Usage
 
-Run the command in your shell
+1. Run the command in your shell
 
 ```
 aifetch
