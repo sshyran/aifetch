@@ -1,0 +1,4 @@
+#!/bin/sh
+
+type wget >/dev/null 2>&1 || { echo >&2 "Please make sure wget is installed"; exit 1; }
+wget -r -N http://people.csail.mit.edu/tlp/AI_SUTD_WWW/

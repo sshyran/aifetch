@@ -1,0 +1,22 @@
+{
+  "name": "aifetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "aifetch": "aifetch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiahaog/aifetch.git"
+  },
+  "author": "Goh Jia Hao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiahaog/aifetch/issues"
+  },
+  "homepage": "https://github.com/jiahaog/aifetch#readme"
+}
